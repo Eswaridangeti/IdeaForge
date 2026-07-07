@@ -5,7 +5,7 @@ IdeaForge AI helps entrepreneurs, students, innovators, and startups validate th
 
 🌐 **Live Demo:** https://ideaforgeaitakeoverhackathon.netlify.app/
 
-📂 **GitHub Repository:** [https://github.com/YOUR_USERNAME/IdeaForgeAI](https://github.com/Eswaridangeti/IdeaForge.git)
+📂 **GitHub Repository:** https://github.com/Eswaridangeti/IdeaForge.git
 
 ---
 
